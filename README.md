@@ -32,5 +32,5 @@ Contributions to the project are welcome! If you have any suggestions for improv
 This project is licensed under the MIT License, allowing for both personal and commercial use with attribution.
 
 ## **Author**
-[Ashish Kumar Singh]
+Ashish Kumar Singh
 
